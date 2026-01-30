@@ -1,0 +1,8 @@
+{
+  "name": "AgroIntel - AI Crop Advisor",
+  "description": "A sophisticated AI-powered agronomy platform that provides real-time crop advice, disease diagnosis through image analysis, and market trend visualizations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
